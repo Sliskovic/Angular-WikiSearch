@@ -1,0 +1,13 @@
+.cover image{
+    height: 60%
+}
+.search{
+    text-align: center;
+}
+.input{
+    border: 1px solid gainsboro;
+   outline: none;
+   font-size: large;
+   padding: 30px;
+   background-color: rgba(245, 241, 236, 0.308);
+}
